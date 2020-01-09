@@ -1,1 +1,1 @@
-64.233.177.94 connectivitycheck.gstatic.com
+172.217.12.227 connectivitycheck.gstatic.com
